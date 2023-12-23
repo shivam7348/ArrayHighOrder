@@ -1,5 +1,9 @@
 const arr = [ 1, 2, 3, 4 , 5]
 
+// for (const iterator of object) {
+    //iterator looks like a variable which hold i and object can be which we declare the variable
+// }
+
  for (const num of arr) { // iterator is like  varaiable which is  val =i
     // console.log( num)
     
